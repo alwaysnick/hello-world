@@ -1,5 +1,10 @@
 # Political Structure
-The start of a political project.
+<h1>Block of text that will summarize exactly what I did on the day of the IL primary.
+Here.
+Here.
+Here.
+Here.
+</h1>
 
-I have no clue what this site is suppose to do. But I have a feeling once it's finished it will be a sweet political project. 
-<h1>Nicholaus Garcia</h1>
+    
+  
