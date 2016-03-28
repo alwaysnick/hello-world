@@ -2,18 +2,8 @@
 <html lang="en">
 
 <head>
-/* Extra small devices (phones, less than 768px) */
-/* No media query since this is the default in Bootstrap */
-
-/* Small devices (tablets, 768px and up) */
-@media (min-width: @screen-sm-min) { ... }
-
-/* Medium devices (desktops, 992px and up) */
-@media (min-width: @screen-md-min) { ... }
-
-/* Large devices (large desktops, 1200px and up) */
-@media (min-width: @screen-lg-min) { ... }
-
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css">
 
 </head>
 <body>
@@ -23,14 +13,13 @@
 <p>Here.</p>
 <p>Here.</P>
 </h1>
+<i class="fa fa-instagram" style="font-size:48px;color:red"></i>
   <p2><b>8-9</b></p2>
+  <p3><b>9-10</b></p3>
+  <p4><b>10-11</b></p4>
 
 
-<div class="row">
-  <div class="col-md-4">.col-md-4</div>
-  <div class="col-md-4">.col-md-4</div>
-  <div class="col-md-4">.col-md-4</div>
-</div>
+
 
 <script>
 
