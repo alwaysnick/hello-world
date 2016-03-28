@@ -13,10 +13,12 @@
 <p>Here.</p>
 <p>Here.</P>
 </h1>
+<i class="fa fa-instagram"></i>
 <i class="fa fa-instagram" style="font-size:48px;color:red"></i>
-  <p2><b>8-9</b></p2>
-  <p3><b>9-10</b></p3>
-  <p4><b>10-11</b></p4>
+  
+  <p><b>8-9, Each section will have a twitter, instagram, soundcloud icon</b></p>
+  <p><b>9-10 " "</b></p>
+  <p><b>10-11 " "</b></p>
 
 
 
