@@ -1,5 +1,4 @@
 # Political Structure
-<!DOCTYPE html>
 <html lang="en">
 
 <head>
